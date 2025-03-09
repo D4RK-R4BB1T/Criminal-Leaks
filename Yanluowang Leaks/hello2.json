@@ -1,0 +1,546 @@
+{
+    "room_name": "Hello",
+    "room_creator": "stealer",
+    "topic": "",
+    "messages": [
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "stealer"
+            },
+            "state_key": "@stealer:matrix.osolomko.com",
+            "origin_server_ts": 1648656995221,
+            "event_id": "$sHqZC4aeA7YFHv5nk3CAWNK7fW3jiRafbOSce1cRf2g",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.join_rules",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "join_rule": "invite"
+            },
+            "state_key": "",
+            "origin_server_ts": 1648656995305,
+            "event_id": "$DQb5AylhL5FxWlOds2dW5JPPwBSLPOT4F71rbR6DRWg",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.history_visibility",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "history_visibility": "shared"
+            },
+            "state_key": "",
+            "origin_server_ts": 1648656995340,
+            "event_id": "$KoyB8Ux7Kouj_rxDcD86oxCjBo75YSmLy0ll0g3qbrs",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.guest_access",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "guest_access": "can_join"
+            },
+            "state_key": "",
+            "origin_server_ts": 1648656995370,
+            "event_id": "$TXlhwECxYPcp8gIJWLmgt8zgp_ByWet36f6Vn0nwwXY",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.encryption",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "algorithm": "m.megolm.v1.aes-sha2"
+            },
+            "state_key": "",
+            "origin_server_ts": 1648656995400,
+            "event_id": "$wMRdDnIl3NSI_Sr4qhmpXgBSkWG08gCTVYxBCmyMoQ4",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.name",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "name": "Hello"
+            },
+            "state_key": "",
+            "origin_server_ts": 1648656995434,
+            "event_id": "$I7bEnshKtZR6_5nYEJwW3XCYc0lR9gAAoEN1AKnJJS4",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "saint"
+            },
+            "state_key": "@saint:matrix.osolomko.com",
+            "origin_server_ts": 1648657040074,
+            "event_id": "$by_ldt28Vv8mDHN3dApSFfWlyzFhD4vFuQjRBUYuzn8",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "ddos"
+            },
+            "state_key": "@ddos:matrix.osolomko.com",
+            "origin_server_ts": 1648657098964,
+            "event_id": "$XVxP0oekFRLrkZ-bTHSceAYuvU8zWo0uQbP5oWA55Sg",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "coder"
+            },
+            "state_key": "@coder:matrix.osolomko.com",
+            "origin_server_ts": 1648657115766,
+            "event_id": "$e6Qgzs3gR4wm5JtafLu_0CV1M3-Rv3PzmW611G5AQhg",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "win32"
+            },
+            "state_key": "@win32:matrix.osolomko.com",
+            "origin_server_ts": 1648657134855,
+            "event_id": "$KNofazgErxSzCf5CumhOCKXnBVq-WwdL6zVjKhKJzGk",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "gykko"
+            },
+            "state_key": "@gykko:matrix.osolomko.com",
+            "origin_server_ts": 1648657163552,
+            "event_id": "$r-gkZ9qRNls8QeJnwIduJfBPF7lKw8VKy6huLD9OXJc",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "felix"
+            },
+            "state_key": "@felix:matrix.osolomko.com",
+            "origin_server_ts": 1648657179942,
+            "event_id": "$r0S4QaJyrc-5a6TehZPyW2rSfNkZLRG5k1eCRPxThQs",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "nets"
+            },
+            "state_key": "@nets:matrix.osolomko.com",
+            "origin_server_ts": 1648657245533,
+            "event_id": "$zheJlaQF4gay5RgIR5K8qCMNgN6M-eixrqK5FOllso8",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@gykko:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "gykko"
+            },
+            "state_key": "@gykko:matrix.osolomko.com",
+            "origin_server_ts": 1648658985542,
+            "event_id": "$cfRGkXVkdhkB0eB0-mDMGAWJVvCtU9xX1wZcoG2NAQ4",
+            "user_id": "@gykko:matrix.osolomko.com",
+            "replaces_state": "$r-gkZ9qRNls8QeJnwIduJfBPF7lKw8VKy6huLD9OXJc",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "gykko"
+            }
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@felix:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "felix"
+            },
+            "state_key": "@felix:matrix.osolomko.com",
+            "origin_server_ts": 1648659660819,
+            "event_id": "$gAwurv5DLs8MbmhRNpsFZXgpQVCBb7VaIlPdE0eHuhA",
+            "user_id": "@felix:matrix.osolomko.com",
+            "replaces_state": "$r0S4QaJyrc-5a6TehZPyW2rSfNkZLRG5k1eCRPxThQs",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "felix"
+            }
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@stealer:matrix.osolomko.com",
+            "content": {
+                "membership": "invite",
+                "displayname": "calls"
+            },
+            "state_key": "@calls:matrix.osolomko.com",
+            "origin_server_ts": 1648662342209,
+            "event_id": "$9ZHz-k00MjkB4B7MNTuzQmJ0iK9R2ZpoVdSCz-sdUQM",
+            "user_id": "@stealer:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@calls:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "calls"
+            },
+            "state_key": "@calls:matrix.osolomko.com",
+            "origin_server_ts": 1648663511968,
+            "event_id": "$0bSkZhVp60rETQxBhx64TeEgG1PHbBdWFZb68tBzrYI",
+            "user_id": "@calls:matrix.osolomko.com",
+            "replaces_state": "$9ZHz-k00MjkB4B7MNTuzQmJ0iK9R2ZpoVdSCz-sdUQM",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "calls"
+            }
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@felix:matrix.osolomko.com",
+            "content": {
+                "msgtype": "m.bad.encrypted",
+                "body": "** Unable to decrypt: The sender's device has not sent us the keys for this message. **"
+            },
+            "origin_server_ts": 1648667970443,
+            "event_id": "$T-ZBbAkDinjmM2wTniUuapQg1-CbKSQ8ijFSryoM9qE",
+            "user_id": "@felix:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@felix:matrix.osolomko.com",
+            "content": {
+                "msgtype": "m.bad.encrypted",
+                "body": "** Unable to decrypt: The sender's device has not sent us the keys for this message. **"
+            },
+            "origin_server_ts": 1648668005748,
+            "event_id": "$gcCQBmk9otV89gV-jtRg84odK8HT9ZMAEA_QadhELso",
+            "user_id": "@felix:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@felix:matrix.osolomko.com",
+            "content": {
+                "msgtype": "m.bad.encrypted",
+                "body": "** Unable to decrypt: The sender's device has not sent us the keys for this message. **"
+            },
+            "origin_server_ts": 1648668007605,
+            "event_id": "$VF6FGbA6nLuIHA7ZjcQgnq3HFeIuK9k4Dd5y5SGBeRw",
+            "user_id": "@felix:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@calls:matrix.osolomko.com",
+            "content": {
+                "msgtype": "m.bad.encrypted",
+                "body": "** Unable to decrypt: The sender's device has not sent us the keys for this message. **"
+            },
+            "origin_server_ts": 1648669796866,
+            "event_id": "$86aEje9TG0EewVsbXLek-bUHMbK8O4kuIumz6MWIi6A",
+            "user_id": "@calls:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@coder:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "coder"
+            },
+            "state_key": "@coder:matrix.osolomko.com",
+            "origin_server_ts": 1648672886592,
+            "event_id": "$OPvEsVKXbzA0ISyFycfcyMFB9F25oImbpghAyvAl4W0",
+            "user_id": "@coder:matrix.osolomko.com",
+            "replaces_state": "$e6Qgzs3gR4wm5JtafLu_0CV1M3-Rv3PzmW611G5AQhg",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "coder"
+            }
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@coder:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "coder",
+                "avatar_url": "mxc://matrix.osolomko.com/BDndYFlsQYiXxbmZryGNEriS"
+            },
+            "state_key": "@coder:matrix.osolomko.com",
+            "origin_server_ts": 1648672939493,
+            "event_id": "$yn6FYpT3Jv9FPZHGFdM9ajw6E60FecbYWPpqd8wQ2FQ",
+            "user_id": "@coder:matrix.osolomko.com",
+            "replaces_state": "$OPvEsVKXbzA0ISyFycfcyMFB9F25oImbpghAyvAl4W0",
+            "prev_content": {
+                "membership": "join",
+                "displayname": "coder"
+            }
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@coder:matrix.osolomko.com",
+            "content": {
+                "msgtype": "m.bad.encrypted",
+                "body": "** Unable to decrypt: The sender's device has not sent us the keys for this message. **"
+            },
+            "origin_server_ts": 1648672953338,
+            "event_id": "$Q7IJ9zVqSra_XR4lX3omxKKfND4BWSVy0Snj76ofKNU",
+            "user_id": "@coder:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@saint:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "saint"
+            },
+            "state_key": "@saint:matrix.osolomko.com",
+            "origin_server_ts": 1648729139085,
+            "event_id": "$mxRPJOx5Iu1pzFgDpjVR5N7Amfxr8MC0O10Oz2TCxqo",
+            "user_id": "@saint:matrix.osolomko.com",
+            "replaces_state": "$by_ldt28Vv8mDHN3dApSFfWlyzFhD4vFuQjRBUYuzn8",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "saint"
+            }
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@ddos:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "ddos"
+            },
+            "state_key": "@ddos:matrix.osolomko.com",
+            "origin_server_ts": 1648739673667,
+            "event_id": "$lHTxGZazHHhPY9FLyE47faU3IKEw9eH-WaBHcaiqHdU",
+            "user_id": "@ddos:matrix.osolomko.com",
+            "replaces_state": "$XVxP0oekFRLrkZ-bTHSceAYuvU8zWo0uQbP5oWA55Sg",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "ddos"
+            }
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@win32:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "win32"
+            },
+            "state_key": "@win32:matrix.osolomko.com",
+            "origin_server_ts": 1648835149330,
+            "event_id": "$eiuSev40ro4mS0vP8pLlsQz5kk4i1kA5-xZiTN7TiSA",
+            "user_id": "@win32:matrix.osolomko.com",
+            "replaces_state": "$KNofazgErxSzCf5CumhOCKXnBVq-WwdL6zVjKhKJzGk",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "win32"
+            }
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@win32:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": "test",
+                "body": "test",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835159457,
+            "event_id": "$qJH5T24J1i4H0bQs4cKAp7pT-qWr24OpvMe582Yn8yk",
+            "user_id": "@win32:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@coder:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": ".+",
+                "body": ".+",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835173441,
+            "event_id": "$VyF-y2xU4M55XS69FMd3_By3DMcQ5JvgzY2SgAZLl5w",
+            "user_id": "@coder:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@win32:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": "test",
+                "body": "test",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835234666,
+            "event_id": "$bqjxZs0AXWb6ryfEkZ45aITn5mGsAtBXuKwwAjeu_Bo",
+            "user_id": "@win32:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@win32:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": "видно всем?",
+                "body": "видно всем?",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835249796,
+            "event_id": "$5tueiZF1oIWd_V-DbiD4he-ELty832DhPO1k0IvRHNA",
+            "user_id": "@win32:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@felix:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": "да",
+                "body": "да",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835253234,
+            "event_id": "$8NkBeaDUxwLcA3tRpxaU8fTe5U2mBRzzZ_7JhuVD-8s",
+            "user_id": "@felix:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@coder:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": "Мне да",
+                "body": "Мне да",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835255994,
+            "event_id": "$i6q_RM8qKgj-imuL2Bt2hLWd1466LvbY_aRsn1oE4-o",
+            "user_id": "@coder:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@ddos:matrix.osolomko.com",
+            "content": {
+                "body": "+",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648835287013,
+            "event_id": "$s_i9JOBxKte2H68TQ8GXOFJWhlXqN7x9SJQ3S1OYaiU",
+            "user_id": "@ddos:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@saint:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.message": [
+                    {
+                        "body": "+",
+                        "mimetype": "text/plain"
+                    },
+                    {
+                        "body": "<ul>\n<li></li>\n</ul>\n",
+                        "mimetype": "text/html"
+                    }
+                ],
+                "body": "+",
+                "msgtype": "m.text",
+                "format": "org.matrix.custom.html",
+                "formatted_body": "<ul>\n<li></li>\n</ul>\n"
+            },
+            "origin_server_ts": 1648889736442,
+            "event_id": "$4rWn7LFBxyUZgZSQKqYvdMfefLPW7H8cQfOEok8mQMQ",
+            "user_id": "@saint:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@calls:matrix.osolomko.com",
+            "content": {
+                "body": "Да",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648916661982,
+            "event_id": "$obpLdjd7nbSv3gZrSH8Dm3Vfs_FCVM16imih21scMcE",
+            "user_id": "@calls:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.message",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@gykko:matrix.osolomko.com",
+            "content": {
+                "org.matrix.msc1767.text": "da",
+                "body": "da",
+                "msgtype": "m.text"
+            },
+            "origin_server_ts": 1648916909978,
+            "event_id": "$_zrqLqyMSNO3mTaARyp-dwtfe2IxPO1rXDomrst413g",
+            "user_id": "@gykko:matrix.osolomko.com"
+        },
+        {
+            "type": "m.room.member",
+            "room_id": "!dRgoSyAMuUhUOLCceB:matrix.osolomko.com",
+            "sender": "@nets:matrix.osolomko.com",
+            "content": {
+                "membership": "join",
+                "displayname": "nets"
+            },
+            "state_key": "@nets:matrix.osolomko.com",
+            "origin_server_ts": 1648919556719,
+            "event_id": "$IBBSczX4xNLqpt5whuk5LLLXUQ46CeWQmMWgZci3Xe0",
+            "user_id": "@nets:matrix.osolomko.com",
+            "replaces_state": "$zheJlaQF4gay5RgIR5K8qCMNgN6M-eixrqK5FOllso8",
+            "prev_content": {
+                "membership": "invite",
+                "displayname": "nets"
+            }
+        }
+    ]
+}
