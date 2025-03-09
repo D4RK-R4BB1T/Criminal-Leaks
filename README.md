@@ -18,7 +18,7 @@ It's CSV/TXT the JSON shit is not my doing and I have 0 interests in fixing, tra
 ### SiegedSec: 
 **Background:**  A Hacking group consisting of 3 "Gay Furries"
 
- **Leaked Data: ** Hidden Service keys
+ **Leaked Data:** Hidden Service keys
 
 ---
 ### BlackMarketReloaded:
