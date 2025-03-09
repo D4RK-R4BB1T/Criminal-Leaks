@@ -24,7 +24,7 @@ It's CSV/TXT the JSON shit is not my doing and I have 0 interests in fixing, tra
 ### BlackMarketReloaded:
 **Background:** A Dark Net Market that was hacked sometime after launching post-seizure of the Silk Road Marketplace in 2013. 
 
-**Leaked data: ** Bitcoin Addresses, PGP Emails
+**Leaked data:** Bitcoin Addresses, PGP Emails
 
 ---
 ### COPP/NLCOPP 
