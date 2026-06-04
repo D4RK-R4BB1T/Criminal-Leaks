@@ -1,0 +1,114 @@
+### Impotent / RansomedVC PGP Keys
+
+Backstory: Impotent (Whist under his RansomedSupport account) confirmed the keys are his own. Now, let us discuss  this problem. You see, 
+Marcus Teodor or whomever else has a problem with not playing nice, Attempting to defraud me but was avoided due to common sense as he pulled we have a buyer but he's taking a bit to pay 
+method which is a common scam that's as old as time itself. What an amusing thing, they made off with about sixty thousand US Dollars. However got scammed by Blackforums for sixty bucks. 
+
+And that leads us to this leak, Well you see they decided to fuck with their affiliates and this is a result and I know your face looks like mine did when I read how dumb this is. 
+
+![](https://media1.tenor.com/images/0a1acd3b9dfc037bacf6df26f5603dbf/tenor.gif)
+
+And yes, I understand this key is not gonna be worth anyones time and yeah that is perfectly ok its not supposed to be. It is however supposed to be a reminder to be careful who you fuck over.
+
+## A Message to Ransomed
+
+Some people should not be fucked  with and one of them is me, the other is your affiliates Marcus, Teodor and whomever else. Now this is your Public & Private PGP Keys and sure,
+I get it you are not using it any more which is fine it serves as a reminder to quit scamming people and quit fucking with your affiliates because this will not be the last time
+
+
+# Happy Holidays From the Kravchenko's & Egert's
+
+![](https://files.catbox.moe/nhq845.gif)
+
+# Public Key
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGRnigEBEAC4x5ul3qYZP4fg0xeLByuUw0xCZUMV78y7KRHwZRM10NXZVXcu
+ictXpyCsUmMzO8zHmYKi2GFRcXBQTVwXEeva2l7xDlhp9bP1ltWn1yDbfgjfwzys
+5f7UsvP+96WX1YO+Yow9WeYDqQ9N1o11nog2ErM62reoURoPKIEomIUlyaglpEPe
+E8+oM/OoXWG9CLRLE68wVIBL1uTHtjyqag2PmwBfbLUJfk/UMEowKzN86XmU1Yiq
+SwyX/zcXwZwhQcbZroMEeUFy83TV7HnckiFKmh2vZE87t+/rm1qQtR+/faW5SI1K
+ySSst5A2elfM8B4hRyAhzKAngeZv31Mcie/4InlvcjQjcOoBOh8yBHI2yMnQzh4r
+M3LZmf1kpbPW13MXQPjzOwjdOfj+ZjM0faRk7J8KDpzxDMLsF29gPuHvZ5VoYiMn
+s9aV8IRPyoODdxnJ71tDmYK89KU5XN7q10My6DyEMgAe4mzzb/aTSFWXPBkDgdtQ
+8uxhMJN0/Qx/v79FIEvVx7vzX7E3Qsrho4s5K5XYgNqyDsph+XBQIV6zE2Db9w5O
+EGNYAUD4J09UxBRRjqWMFORN776JKTXcEaAJfDidpF2JenG9VnsMexhcZUT7SVB7
+UD3ExrUV3Lz8pMKQ/6CtNXtQ54ILn2AoI6JY6PNTXUO4qau6A5ofAnF7twARAQAB
+tCJpbXBvdGVudCgpPGltcG90ZW50QGRhbndpbjEyMTAuZGU+iQJXBBMBCABBFiEE
+MyFKA0xmoJb5/FFUvwi+yojoG74FAmRnigECGy8FCQPDtzgFCwkIBwICIgIGFQoJ
+CAsCBBYCAwECHgcCF4AACgkQvwi+yojoG74lgBAAlWcynLe2DARWpy3UzACrM7D/
+RzV/1TMAASgROztTHE07YNfmmVLl43IdXMOJ2JyT39asRxXBkAgksuv61E7VgpjN
+IWWE79KCrZa96pUKLE8bONfRVtMQHNvnkdx3Sh0GPJULddHp6aope7L7FIMNT4hy
+UGvkQwHI0uw4Wk2eV9hWNZFOyuwxm1YLEL1fCrnUvp3NzWBWOtSckYy+OyDKPH5q
+TTTB34aspJkHtqxMWD9tKQSksQwyVsQhEBvKw0vAEMu8KQleu/oYMVWphZ201KOH
+sLnaQqQjjABBbD7sZFKz0k1IXvUTeU3WNopimm8UdclgH2kFDjvfubzETiCGt8ca
+SqKktTvB8LxN+EBYYsUMAdofEcuWv2tc36K6U7tefYMCTrmrilIMOlubTQBsR7oC
+GGxOzfC203NDN6GuWyPRaFYCVM1mVvT0v10+ggVP1/KloFEtqs0d+GZOwssKOu1a
+rGD1Z9Iyc11tdP8CGB4QatwUed6O2Qw/l3v6TuzJL8A/G2dFQM4pJHHMbEJCKz78
+LklMfWdNLfR17yuFwT17j3FjqTHjCpUsE+sK3n5Ot5k7+efTxjfGXBVMhSQHgiM1
+OSoFfNwWucdiJ9OlEOW2/XLToIlPhyWPaO8A5lVldTxa9ZU2EqQEKv4w69HckkOf
+coS+yCohVayLwxUva40=
+=PXlT
+-----END PGP PUBLIC KEY BLOCK-----
+
+
+# Private Key
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+
+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
+rIvDFS9rjQ==
+=M67Q
+-----END PGP PRIVATE KEY BLOCK-----
+
+
